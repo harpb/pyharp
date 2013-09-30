@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: pyHarp
+Version: 0.1dev
+Summary: Tools for python
+Home-page: https://github.com/harpb/pyharp
+Author: HarpB
+Author-email: hi@harpb.com
+License: BSD
+Description: These set of tools...
+Keywords: file,move,remove
+Platform: UNKNOWN

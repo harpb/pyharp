@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+pyHarp.egg-info/PKG-INFO
+pyHarp.egg-info/SOURCES.txt
+pyHarp.egg-info/dependency_links.txt
+pyHarp.egg-info/entry_points.txt
+pyHarp.egg-info/top_level.txt
+pyHarp.egg-info/zip-safe
+pyharp/__init__.py
