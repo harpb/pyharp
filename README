@@ -1,1 +1,2 @@
-﻿README.md
+﻿pyHarp is a set of utilities to wrap around python modules and reduce the friction in using those modules. 
+Documentation for each tool is available at http://pythonhosted.org/pyHarp/pyharp.html
