@@ -1,0 +1,6 @@
+_pip_cache
+.git
+.project
+.pydevproject
+*.pyc
+pyenv
